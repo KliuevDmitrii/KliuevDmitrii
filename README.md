@@ -1,7 +1,7 @@
-## Привет! Меня зовут Дмитрий
+## Hello! My name is Dmitrii.
 
-Я QA Engineer с опытом тестирования веб-сервисов, мобильных приложений и браузерных расширений.
-В этом репозитории вы можете найти проекты, выполненные в рамках практической работы и обучения, включая автоматизированные тесты для веб-приложений и расширений.
+I am a QA Engineer with experience in testing web services, mobile applications, and browser extensions. 
+In this repository, you can find projects completed during my practical work and training, including automated tests for web applications and extensions.
 
 
 # 💻 Tech Stack:
